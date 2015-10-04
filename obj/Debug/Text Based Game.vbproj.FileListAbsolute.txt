@@ -1,0 +1,10 @@
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\bin\Debug\Text Based Game.exe.config
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\bin\Debug\Text Based Game.exe
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\bin\Debug\Text Based Game.pdb
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\bin\Debug\Text Based Game.xml
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\obj\Debug\Text Based Game.vbprojResolveAssemblyReference.cache
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\obj\Debug\Text_Based_Game.Resources.resources
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\obj\Debug\Text Based Game.vbproj.GenerateResource.Cache
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\obj\Debug\Text Based Game.exe
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\obj\Debug\Text Based Game.xml
+c:\users\huskysplash350\documents\visual studio 2015\Projects\Text Based Game\obj\Debug\Text Based Game.pdb
